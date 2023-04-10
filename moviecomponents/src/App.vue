@@ -17,7 +17,7 @@ export default defineComponent({
   },
   data () {
     return {
-      movieData: {} as Record<string, unknown>,
+      movieData: {},
       listMovie: []
     }
   },
